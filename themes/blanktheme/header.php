@@ -25,6 +25,15 @@
 		          <li class="nav-item">
 		            <a class="nav-link" href="<?=get_home_url();?>">Home</a>
 		          </li>
+		          <li class="nav-item">
+		            <a class="nav-link" href="<?=get_home_url();?>/projects">Projects Archive page</a>
+		          </li>
+		          <li class="nav-item">
+		            <a class="nav-link" href="<?=get_home_url();?>/json-dataa/">Ajax Req(Projects) </a>
+		          </li>
+		          <li class="nav-item">
+		            <a class="nav-link" href="<?=get_home_url();?>/coffee-quotes/">Quotes</a>
+		          </li>
 		        </ul>
 		      </div>
 		    </div>
